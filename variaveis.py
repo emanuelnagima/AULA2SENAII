@@ -25,4 +25,3 @@ print(f'Meu nome é {nome}, tenho {peso}kg e tenho {idade} anos de idade. Sou do
 print(f'Hoje vai chover: {chuva}')
 
 
-
