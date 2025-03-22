@@ -4,6 +4,5 @@ print('Iremos realizar um conversão de real para dolar')
 n1=float(input('digite um valor'))
 
 cal=float(n1/5.68)
-
-print(f'O valor de {n1}R$ em dolar será de : {round(cal,2)}')
+print(f'O valor de {n1}R$ em dolar será de: \n{round(cal,2)}') #(\n)QUEBRA LINHA 
 
